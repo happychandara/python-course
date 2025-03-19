@@ -76,8 +76,8 @@ print('\n⋆⭒˚. (っ◔ ◡ ◔ )っ ˚⭒⋆')
 print('╔═══════════════════╗')
 print('║    𝙏𝙞𝙘-𝙏𝙖𝙘-𝙏𝙤𝙚    ║')
 print('╚═══════════════════╝')
-print(' 1 - Single Player')
-print(' 2 - 2 Players')
+print(' [1] Single Player')
+print(' [2] Two Players')
 mode = int(input('\nChoose your mode : '))
 
 # Printing empty grid
