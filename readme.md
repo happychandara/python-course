@@ -6,9 +6,11 @@ The course aims to give general knowledge about Python programming and to develo
 <br>
 Here is a list of the chapters currently available :
 - **Chapter 1 :** Introduction to Python
-- **Chapter 2 :** Functions and Iteration / Mini-project : Drawing in Python
-- **Chapter 3 :** Lists / Mini-project : Making a Tic-Tac-Toe game
-- **Chapter 4 :** First numerical algorithms (no exercises)
+- **Chapter 2 :** Functions and Iteration
+- **Mini-project :** Drawing in Python
+- **Chapter 3 :** Lists
+- **Mini-project :** Making a Tic-Tac-Toe game
+- **Chapter 4 :** First numerical algorithms
 
 <br> Here is a list of the next chapters currently in development :
 - **Chapter 0 :** Initiation to computers, programming languages and the Python environment
