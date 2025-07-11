@@ -7,7 +7,7 @@ t.speed(0)
 
 def spiral():
     colors = ['red', 'orange', 'yellow', 'green', 'cyan', 'blue', 'purple', 'pink']
-    t.bgcolor('black')  
+    t.bgcolor('black')
     t.pensize(2)
 
     for k in range(1,1001):

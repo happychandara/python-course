@@ -18,9 +18,9 @@ t.goto(0,60)
 def dcircle(size, filled):
     t.pendown()
     if filled:
-        t.begin_fill()  
-    t.setheading(180)  
-    t.circle(size, 360)  
+        t.begin_fill()
+    t.setheading(180)
+    t.circle(size, 360)
     if filled:
         t.end_fill()
 
@@ -49,7 +49,7 @@ def head():
 def dcurvedtriangle(side1,side2,side3,filled):
   t.pendown()
   if filled:
-      t.begin_fill()  
+      t.begin_fill()
   t.forward(side1)
   t.right(20)
   t.forward(3)
@@ -197,7 +197,7 @@ def whiskers():
   t.goto(94,-57)
   t.pendown()
   t.goto(128,-73)
-  
+
 head()
 ears()
 bow()

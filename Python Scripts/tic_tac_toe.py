@@ -95,7 +95,7 @@ if mode == 1:
             won = play(player)
         else:
             won = botplay()
-        
+
         if won and player == player1:
             print('\nPlayer wins !')
             break
